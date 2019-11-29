@@ -12,11 +12,5 @@
     "target_path": "packages/resources/devicesettings",
     "branch": "lineage-17.0",
     "remote": "lineage"
-  },
-  {
-    "repository": "packages_apps_WallpapersBReel2018",
-    "target_path": "packages/apps/WallpapersBReel2018",
-    "branch": "ten",
-    "remote": "pixel-gitlab"
   }
 ]
