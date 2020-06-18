@@ -49,6 +49,9 @@ TARGET_KERNEL_CLANG_COMPILE := true
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sm6150
 TARGET_KERNEL_CONFIG := vendor/violet-perf_defconfig
 
+# Build with clang
+TARGET_KERNEL_CLANG_VERSION := 11
+
 # Enable stats logging in LMKD
 TARGET_LMKD_STATS_LOG := true
 
